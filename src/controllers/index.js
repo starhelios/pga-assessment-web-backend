@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const Schedule = require("../Models");
+const Schedule = require("../models");
 
 const getAllSchedules = (req, res) => {
   Schedule.find((err, docs) => {
