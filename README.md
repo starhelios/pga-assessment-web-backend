@@ -1,10 +1,18 @@
-# golf-schedule-node
+# Golf Schedule Test App Backend
 
-This project is an application of node and mongo atlas for a typical [Node.js](https://nodejs.org/) web app.
+## Techstack
+Node.js + Mongo DB Atlas + Heroku
 
-## Getting Started
-To get you started you can simply clone the repository and install the dependencies
+- https://nodejs.org
+- https://www.mongodb.com/atlas/database
+- https://www.heroku.com/
+## Getting started
+
+```sh
+# Install dependencies
+yarn
+
+# Start dev server
+yarn start
+
 ```
-npm install
-```
-
